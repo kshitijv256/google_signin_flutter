@@ -1,4 +1,4 @@
-# g_auth
+# google_auth
 
 A new Flutter project.
 
